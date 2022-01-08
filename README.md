@@ -6,11 +6,17 @@ I used a parallax effect for all of the different sections that showed each diff
 
 
 .parallax {
+
   background-attachment: fixed;
+  
   background-position: center;
+  
   background-repeat: no-repeat;
+  
   background-size: cover;
+  
   min-height: 1000px;
+  
 }
 
 This class creates the parallax effect, which is something cool and simple that our students can learn. Additionally, I used many different HTML elements such as div, p, span, section, and headers. 
