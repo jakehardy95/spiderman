@@ -1,0 +1,87 @@
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.mainImg {
+  background-image: url("https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/10/spider-verse-dellotto-banner.jpg");
+  min-height: 1000px;
+}
+
+.tobeyImg {
+  background-image: url("https://wallpaperaccess.com/full/6518934.jpg");
+  min-height: 1000px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.andrewImg {
+  background-image: url("https://wallpapercave.com/wp/wp3065905.jpg");
+  min-height: 1000px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.tomImg {
+  background-image: url("https://wallpaperbat.com/img/99313-latest-spider-man-homecoming-hd-wallpaper-2017-spiderman-tom.jpg");
+  min-height: 1000px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.spidermen {
+  color: white;
+}
+
+.mainTobey {
+  padding: 20px;
+  background-color: #111;
+  color: #fff;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+.mainText {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.intro {
+  padding: 20px;
+  background-color: #111;
+  color: #fff;
+}
+
+.section {
+  text-align: center;
+  padding: 50px 80px;
+}
+
+div {
+  display: block;
+}
