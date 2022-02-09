@@ -1,6 +1,9 @@
-# SpiderMan: Which One is Best?
+# Choose your favorite Superhero!
 
-I wanted to create a website that portrayed my opinions about spiderman, and which one out of the three (from the Sony/MCU movies) was the best.
+For this project, we will be using classes for CSS to define and style our html elements.
+
+# Before you begin:
+
 
 I used a parallax effect for all of the different sections that showed each different SpiderMan. All of this was created just by using HTMl and CSS. The parallax class can be seen below:
 
@@ -19,4 +22,4 @@ I used a parallax effect for all of the different sections that showed each diff
   
 }
 
-This class creates the parallax effect, which is something cool and simple that our students can learn. Additionally, I used many different HTML elements such as div, p, span, section, and headers. 
+
